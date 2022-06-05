@@ -1,1 +1,1 @@
-This lab involved using CLI commands for directory and file manipulation as well as for git commands. The lab incorporated steps such as adding a file to git, ignoring files, and cloning cloud repos locally.![image](https://user-images.githubusercontent.com/82883879/172034004-bba45c4b-4d35-4ce8-9fbc-b59f72502d19.png)
+This lab involved using CLI commands for directory and file manipulation as well as for git commands. The lab incorporated steps such as adding a file to git, ignoring files, and cloning cloud repos locally.
